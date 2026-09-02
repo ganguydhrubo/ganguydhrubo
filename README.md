@@ -11,7 +11,8 @@
 </p>
 
 <p align="center">
-  <em>Kolkata, India · Open to relocation: Japan / APAC</em>
+  <em>Based in Kolkata, India · Delivered to clients in India, the UAE, Malaysia and the UK</em><br>
+  <em>Open to remote and relocation worldwide</em>
 </p>
 
 ---
