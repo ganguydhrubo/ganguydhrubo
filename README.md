@@ -24,8 +24,8 @@ one thing that shapes everything I build now:
 
 > Plausible output from a trusted system is the most dangerous kind of wrong.
 
-That is why my agent systems have **structural gates**, not just good prompts. Today I work as a
-Forward Deployed AI Engineer at **1XL Universe**, and build **Sahkarmi** in the open.
+That is why my agent systems have **structural gates**, not just good prompts. I work as a forward
+deployed AI engineer, and build **Sahkarmi** in the open.
 
 ---
 
