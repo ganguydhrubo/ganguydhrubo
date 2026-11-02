@@ -1,96 +1,115 @@
 <div align="center">
 
-# Dhrubojyoti Gangopadhyay (Dhrubo)
+<img src="https://www.dhrubo.shop/dhrubo-portrait.jpg" width="150" height="150" alt="Dhrubojyoti Gangopadhyay" style="border-radius:50%" />
 
-`// AI SYSTEMS ARCHITECT & OPERATIONAL LEADER`  
-`// 17 YEARS ENTERPRISE COMMERCIAL & REVENUE OPERATIONS`  
-`// STACK: FASTAPI | N8N | PYTHON | NEXT.JS | SUPABASE | VAPI`
+# Dhrubojyoti Gangopadhyay
 
-<br/>
+**Forward deployed and applied AI engineer.**
+I build agentic systems for business operations — with human approval gates.
 
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-dhrubo.shop-70f1db?style=for-the-badge&logo=googlechrome&logoColor=05070a&labelColor=0d1217)](https://dhrubo.shop)
-[![GitHub](https://img.shields.io/badge/GITHUB-ganguydhrubo-eef8f4?style=for-the-badge&logo=github&logoColor=05070a&labelColor=0d1217)](https://github.com/ganguydhrubo)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-70f1db?style=for-the-badge&logo=linkedin&logoColor=05070a&labelColor=0d1217)](https://linkedin.com/in/dhrubojyoti-gangopadhyay)
-[![Email](https://img.shields.io/badge/DISPATCH-dhrubojyoti.gangopadhyay%40gmail.com-eef8f4?style=for-the-badge&logo=gmail&logoColor=05070a&labelColor=0d1217)](mailto:dhrubojyoti.gangopadhyay@gmail.com)
+Kolkata, India · IST
 
-<br/>
-
-**Full-Stack Developer · AI Systems Architect · Enterprise Operations Leader**  
-*Operating from Kolkata, India [IST] · Shipping worldwide*
-
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-dhrubo.shop-c94c12?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.dhrubo.shop)
+[![Sahkarmi](https://img.shields.io/badge/Sahkarmi-sahkarmi.site-262626?style=for-the-badge&logo=windows&logoColor=white)](https://sahkarmi.site)
+[![dev.to](https://img.shields.io/badge/dev.to-dhrubojyoti-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/dhrubojyoti)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhrubojyoti-gangopadhyay)
 
 </div>
 
-### 🛰️ Executive Telemetry & Profile Context
+---
 
-I operate at the convergence of **production agentic AI** and **deep enterprise commercial execution**. With **17 years of enterprise commercial and revenue operations leadership** across national-scale industrial conglomerates (ACC Ltd., Lafarge, MP Birla Group at AGM / Senior Manager level), I translate complex distribution networks, pricing models, dealer rebate structures, and ERP systems into deterministic database schemas and resilient, high-throughput AI agent architectures.
+I spent **sixteen years in enterprise revenue operations** across cement, steel and consumer
+healthcare, finishing at AGM level. Dealer networks, rebate schemes, collections and MIS taught me
+one thing that shapes everything I build now:
 
-I build systems that bridge enterprise operating reality with sub-second AI execution—no fragile prompt prototypes, only auditable, production-grade infrastructure.
+> Plausible output from a trusted system is the most dangerous kind of wrong.
 
-```text
-┌──────────────────────────────────────────────────────────────────────────────┐
-│ SYSTEM METRICS & ARCHITECTURE POSTURE                                        │
-├────────────────────────────────┬─────────────────────────────────────────────┤
-│ ⚡ Voice Pipeline Latency      │ <250ms (Speech → Typed CRM Schema via Vapi)  │
-│ 🏢 Enterprise Commercial Ops   │ 17 Years (National Scale Supply & RevOps)   │
-│ 📊 Decision Latency Reduction  │ 40% via DB-tier logic (PL/pgSQL stored procs)│
-│ 🛡️ Publicly Auditable Repos   │ 31+ Production Architectures                 │
-│ 🌐 Live Portfolio Surface      │ https://dhrubo.shop                         │
-└────────────────────────────────┴─────────────────────────────────────────────┘
-```
+That is why my agent systems have **structural gates**, not just good prompts. Today I work as a
+Forward Deployed AI Engineer at **1XL Universe**, and build **Sahkarmi** in the open.
 
 ---
 
-### ⚡ Featured Production Architectures
+## Sahkarmi — open-source desktop AI coworkers
 
-#### 1. 🚀 [VAYU OS — High-Evasion AI Outreach Pipeline](https://github.com/ganguydhrubo/salesman-of-the-year)
-High-evasion crawler with browser fingerprint spoofing bypassing Cloudflare and Imperva anti-bot protections. Features a custom SMTP handshake engine validating mailboxes via MX records before transmission, backed by a crash-resilient transactional SQLite state persistence engine.
-- **Stack:** `Python` · `Playwright Stealth` · `Groq` · `SQLite` · `Google Sheets API`
-- **Focus:** Fingerprint spoofing, deterministic delivery, self-healing job restarts
+<a href="https://github.com/ganguydhrubo/sahakarmi">
+  <img src="https://www.dhrubo.shop/og/projects/sahkarmi" width="640" alt="Sahkarmi" />
+</a>
 
-#### 2. 🎙️ [ZOYA Voice Agent — Sub-250ms Telephony CRM Agent](https://github.com/ganguydhrubo/retail-whatsapp-loyalty)
-Orchestrates Vapi to manage WebRTC/SIP telephony sessions, streaming voice directly into structured, typed CRM schemas at sub-250ms latency under concurrent high-throughput load without blocking user interfaces.
-- **Stack:** `Vapi` · `WebSockets` · `Claude Realtime` · `FastAPI` · `Supabase`
-- **Focus:** Sub-250ms voice-to-JSON serialization, enterprise webhooks, full telemetry audit trails
-
-#### 3. 📈 [Multi-Agent Revenue Operations Orchestrator](https://github.com/ganguydhrubo/Multi-Agent-Revenue-Operations-Orchestrator-using-LangGraph)
-Four-agent LangGraph pipeline (Signal Scraper → Analyst → Writer → Router) translating multi-state distributor sales data and competitor pricing signals into structured business intelligence briefings. Directly encodes 17 years of enterprise pricing frameworks and distributor analytics.
-- **Stack:** `LangGraph` · `Python` · `FastAPI` · `Docker` · `CI/CD` · `MIT License`
-- **Focus:** Multi-agent state graphs, automated reconciliation, RevOps leakage elimination
-
-#### 4. 🛡️ [SENTRA-AI — Operational Multi-Agent SOC Copilot](https://github.com/ganguydhrubo/SENTRA-AI)
-LangGraph multi-agent orchestration layer operating over a pgvector/PostgreSQL RAG knowledge base. Ingests enterprise security alerts from Splunk, Microsoft Sentinel, and CrowdStrike, clarifies incident blast radius in plain language, and drafts automated triage and remediation runbooks.
-- **Stack:** `Next.js 15` · `FastAPI` · `LangGraph` · `pgvector` · `Docker`
-- **Focus:** Stateful graph execution, hybrid RAG, zero-hallucination verification
-
-#### 5. ⚖️ [ComplianceGraph — EU AI Act Compliance Layer](https://github.com/ganguydhrubo/ComplianceGraph)
-Deterministic compliance intelligence system that classifies agentic system risk tiers based on runtime tools, permissions, degree of autonomy, human oversight, and logging posture. Generates audit-ready reports with immutable reasoning paths.
-- **Stack:** `FastAPI` · `SQLite` · `Knowledge Graph` · `WeasyPrint`
-- **Focus:** Graph-based traceability, regulatory alignment, audit trails
-
----
-
-### 🛠️ Interactive Tech Matrix
-
-| Domain | Verified Production Stack |
-| :--- | :--- |
-| **Agentic & Protocols** | `LangGraph` · `Model Context Protocol (MCP)` · `LCEL` · `Supervisor Multi-Agent Patterns` · `Stateful Checkpointing` |
-| **Voice & Telephony** | `Vapi Conversational AI` · `Twilio` · `WebSockets` · `Claude 3.5 Realtime` · `Audio Stream Orchestration` |
-| **Backend & Workflows** | `Python` · `FastAPI` · `n8n Automation` · `Docker` · `Node.js` · `REST/JSON-RPC` |
-| **Data & Storage** | `PostgreSQL (PL/pgSQL)` · `Supabase` · `Neon Serverless DB` · `Redis` · `SQLite WAL` |
-| **LLMs & Retrieval** | `Claude 3.5 Sonnet` · `OpenAI GPT-4o` · `Gemini Embeddings` · `Groq LPU` · `Hybrid BM25 + Vector Search` |
-| **Frontend & UI** | `Next.js 15 (App Router)` · `React 19` · `TypeScript` · `Tailwind CSS` · `Framer Motion` · `GSAP` |
-
----
-
-### 📬 Direct Dispatch & Contact
-
-- **Live Production Portfolio:** [dhrubo.shop](https://dhrubo.shop)
-- **Primary Direct Email:** [dhrubojyoti.gangopadhyay@gmail.com](mailto:dhrubojyoti.gangopadhyay@gmail.com)
-- **LinkedIn Profile:** [linkedin.com/in/dhrubojyoti-gangopadhyay](https://www.linkedin.com/in/dhrubojyoti-gangopadhyay/)
-- **Location:** Kolkata, India [IST] · Open to Global Remote Engagements & Relocation Worldwide
+A Windows desktop platform where AI coworkers browse, file, draft and report on your own machine —
+and **stop and ask** before anything irreversible. Payments, messages to customers, publishing,
+shell commands, deletions and official forms are hard-coded to require a human decision. The model
+cannot talk its way past them, and the settings UI cannot switch them off.
 
 <div align="center">
-<sub>© 2026 Dhrubojyoti Gangopadhyay (Dhrubo). All systems verified & operational.</sub>
+
+| Releases | Commits | Merged PRs | Latest | Licence |
+|:--------:|:-------:|:----------:|:------:|:-------:|
+| **50** | **277** | **72** | `v0.17.1` | Apache-2.0 |
+
+</div>
+
+[![Repo](https://img.shields.io/badge/Source-ganguydhrubo%2Fsahakarmi-262626?style=flat-square&logo=github)](https://github.com/ganguydhrubo/sahakarmi)
+[![Store](https://img.shields.io/badge/Microsoft%20Store-9PD6BP3NGVST-0078D4?style=flat-square&logo=microsoftstore&logoColor=white)](https://apps.microsoft.com/detail/9PD6BP3NGVST)
+[![Scoop](https://img.shields.io/badge/Scoop-bucket-c94c12?style=flat-square)](https://github.com/ganguydhrubo/scoop-sahkarmi)
+
+[![Release](https://img.shields.io/github/v/release/ganguydhrubo/sahakarmi?style=flat-square&color=c94c12&label=latest)](https://github.com/ganguydhrubo/sahakarmi/releases)
+[![Last commit](https://img.shields.io/github/last-commit/ganguydhrubo/sahakarmi?style=flat-square&color=262626)](https://github.com/ganguydhrubo/sahakarmi/commits/main)
+[![Licence](https://img.shields.io/github/license/ganguydhrubo/sahakarmi?style=flat-square&color=262626)](https://github.com/ganguydhrubo/sahakarmi/blob/main/LICENSE)
+
+---
+
+## Selected work
+
+| Project | What it is |
+|:--|:--|
+| [**Sahkarmi**](https://github.com/ganguydhrubo/sahakarmi) | Desktop AI coworker platform with permission gates. Released. |
+| [**Chotu AI**](https://github.com/ganguydhrubo/chotu-ai) | Android AI agent (ছোটু) for the Sahkarmi ecosystem. |
+| [**ComplianceGraph**](https://github.com/ganguydhrubo/ComplianceGraph) | EU AI Act compliance layer for agentic systems — risk classification and audit-ready reports. |
+| [**SENTRA-AI**](https://github.com/ganguydhrubo/SENTRA-AI) | Multi-agent SOC copilot: LangGraph agents over a pgvector knowledge base. |
+| [**B2B Sales Intelligence RAG**](https://github.com/ganguydhrubo/b2b-sales-intelligence-rag) | Hybrid retrieval with reciprocal rank fusion. Prototype — not deployed. |
+| [**RevOps Orchestrator**](https://github.com/ganguydhrubo/Multi-Agent-Revenue-Operations-Orchestrator-using-LangGraph) | Four-agent LangGraph pipeline for distributor and pricing signals. |
+
+Live products: [atittle.com](https://atittle.com) · [auraleads.online](https://auraleads.online) · [zappy.rest](https://zappy.rest)
+
+The [projects page](https://www.dhrubo.shop/projects) on my site lists every public system with an
+honest status — released, live, or prototype — rather than only the flattering ones.
+
+---
+
+## Writing
+
+- [Approval gates for AI agents: how Sahkarmi decides what a coworker may do](https://www.dhrubo.shop/writing/approval-gates-for-ai-agents)
+- [What a forward deployed AI engineer actually does](https://www.dhrubo.shop/writing/what-a-forward-deployed-ai-engineer-does)
+- [Hybrid retrieval with reciprocal rank fusion: notes from a RAG prototype](https://www.dhrubo.shop/writing/hybrid-retrieval-reciprocal-rank-fusion)
+
+Also on [dev.to/dhrubojyoti](https://dev.to/dhrubojyoti).
+
+---
+
+## Tools I actually use
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare%20Workers-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+
+Claude Agent SDK · Model Context Protocol · RAG and hybrid retrieval · agent permission systems
+
+---
+
+<div align="center">
+
+**Available for** Forward Deployed and Applied AI Engineer roles, and scoped
+agentic-automation projects for operations teams.
+
+[dhrubo.shop](https://www.dhrubo.shop) · [dhrubojyoti.gangopadhyay@gmail.com](mailto:dhrubojyoti.gangopadhyay@gmail.com)
+
 </div>
